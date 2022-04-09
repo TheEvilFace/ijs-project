@@ -1,0 +1,7 @@
+{
+  "name": "IJS-project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

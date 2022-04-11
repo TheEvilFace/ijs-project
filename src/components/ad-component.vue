@@ -1,6 +1,6 @@
 <template>
   <div class="adBoxStyle border-rounded" >
-    <img class="border-rounded-img" src="../../resources/dom.jpg" style="width: 100%" />
+    <img class="border-rounded-img" src="../../resources/dom.jpg" style="width: 100%;height: 130px" />
     <ion-icon class="dotsClass" :src="dots" />
     <div class="text-block" >
       <ion-icon class="badge-M" :src="M" />
@@ -58,13 +58,13 @@ export default {
     margin-top: 4px;
     margin-bottom: 3px;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 0.9rem;
     line-height: 15px;
   }
   .descriptionText{
     font-family: 'Mont';
     font-style: normal;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: 400;
 
     margin-top: 0;

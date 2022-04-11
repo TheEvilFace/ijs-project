@@ -25,12 +25,12 @@ http://ionicframework.com/docs/theming/ */
   --ion-color-dark: #222428;
 
   /** medium **/
-  --ion-color-medium: #A9B7C5;
+  --ion-color-medium: #72767A;
 
   /** light **/
   --ion-color-light: #f4f5f8;
-}
 
+}
 @media (prefers-color-scheme: light) {
   /*
    * Dark Colors
@@ -52,7 +52,7 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-color-dark: #f4f5f8;
 
-    --ion-color-medium: #A9B7C5;
+    --ion-color-medium: #72767A;
 
     --ion-color-light: #222428;
   }
@@ -92,6 +92,7 @@ http://ionicframework.com/docs/theming/ */
     --ion-item-background: #000000;
 
     --ion-card-background: #1c1c1d;
+
   }
 
   .ios ion-modal {
